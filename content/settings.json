@@ -1,19 +1,19 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
+    "siteUrl": "https://www.ashimdongol.com.np/",
+    "title": "Ashim Dongol",
     "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
+    "description": "Ashim Dongol Portfolio",
+    "author": "Ashim Dongol",
     "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "Minimal Details about me.",
     "social": {
       "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "github": "https://github.com/AshimD1",
+      "twitter": "https://twitter.com/AshimDongol2",
+      "linkedin": "https://www.linkedin.com/in/ashimdongol/",
+      "mail": "mailto:ashimdngl1@gmail.com"
     }
   },
   "siteConfiguration": {
@@ -28,7 +28,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/resume.pdf"
+        "url": "/Ashim_Dongol.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
