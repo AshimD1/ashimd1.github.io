@@ -4,12 +4,12 @@ sectionId: imprint
 
 #### Information pursuant to § 5 TMG
 
-YOURNAME<br />
-YOURSTREET<br />
-YOURCITY<br />
-YOURCOUNTRY
+Ashim Dongol<br />
+Chabahil<br />
+Kathmandu<br />
+Nepal
 
-E-Mail Address: <u>YOURMAIL@DOMAIN.COM</u>
+E-Mail Address: <u>ashimdngl1@gmail.com</u>
 
 ---
 
