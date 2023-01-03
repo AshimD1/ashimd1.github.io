@@ -1,58 +1,58 @@
 {
   "interests": [
     {
+      "label": "Arduino",
+      "image": {
+        "src": "../../images/arduino.png",
+        "alt": ""
+      }
+    },
+    {
       "label": "C++",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/c++.png",
         "alt": ""
       }
     },
     {
       "label": "Python",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/python.png",
         "alt": ""
       }
     },
     {
-      "label": "Arduino",
+      "label": "Fusion 360",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/fusion360.png",
         "alt": ""
       }
     },
     {
       "label": "ROS",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/ros.png",
         "alt": ""
       }
     },
     {
       "label": "Matlab",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/matlab.png",
         "alt": ""
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "HTML",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/html.png",
         "alt": ""
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "CSS",
       "image": {
-        "src": "../../images/gatsby.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Blazing Fast",
-      "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/css.png",
         "alt": ""
       }
     }
@@ -60,6 +60,6 @@
   "button": {
     "visible": true,
     "label": "+ Load More",
-    "initiallyShownInterests": 5
+    "initiallyShownInterests": 6
   }
 }

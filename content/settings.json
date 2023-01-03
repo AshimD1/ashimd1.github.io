@@ -6,8 +6,8 @@
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "Ashim Dongol Portfolio",
     "author": "Ashim Dongol",
-    "avatar": "../content/images/gatsby.png",
-    "bio": "Minimal Details about me.",
+    "avatar": "../content/images/lego-dummy.png",
+    "bio": "",
     "social": {
       "behance": "https://behance.com",
       "github": "https://github.com/AshimD1",
@@ -28,7 +28,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/Ashim+Dongol.pdf"
+        "url": "/Ashim Dongol resume.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },

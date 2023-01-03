@@ -2,14 +2,14 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ ",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "🧰 ",
+      "title": "Virtual Robot Simulator",
+      "description": "A webpage with 3D model of Delta Robot that can be controlled. Main objective of this project is to learn about Delta Robot, its structure, motion, working. Designed all the components for 3D model of robot in Fusion 360 and Assembled them. Created a reactive webpage using HTML and CSS where 3D model is deployed.",
+      "tags": ["3D model(Fusion360)", "Simulation","HTML & CSS"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/ashimd1"
+        "src": "../../images/Delta.jpg",
+        "alt": "Virtual RObot Simulation",
+        "linkTo": "https://github.com/AshimD1/Delta-Robot-Simulation"
       },
       "links": [
         {
@@ -20,13 +20,13 @@
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": " 🕹️ ",
+      "title": "Office Assistant Bot",
+      "description": "A mobile bot that has facial recognition and can be controlled using hand gestures and voice control. Used ROS to control motion of Bot through Arduino Mega and L293D motor driver. Configured Raspberry Pi for master slave configuration and command control features. ",
+      "tags": ["Mobile Robot","ROS","Python"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/bot.jpg",
+        "alt": "Mobile Bot"
       },
       "links": [
         {
