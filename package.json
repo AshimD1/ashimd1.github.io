@@ -17,6 +17,10 @@
     "engines": {
         "node": ">=18.0.0"
     },
+    "dependencies": {
+  "react": "^16.14.0",
+  "react-dom": "^16.14.0",
+},
     "peerDependencies": {
         "gatsby": "^5",
         "react": "^18",
