@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix:"/ashimd1.github.io",
   plugins: [
     {
       resolve: "gatsby-theme-portfolio-minimal",
